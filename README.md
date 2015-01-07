@@ -19,4 +19,5 @@ German translation for Kerbal Space Program
 		- Fr3aKyHDx
 		- cino
 		- Grindberg
-
+		
+ModuleManager by Sarbian (https://github.com/sarbian/ModuleManager)
