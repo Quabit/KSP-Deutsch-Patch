@@ -1,0 +1,27 @@
+Changelogs KSP Deutsch Patch
+
+Version 1.2
+- IVA vom PPD-10 Hitchhiker übersetzt
+- Hinweise des Ladebildschirms übersetzt
+- Hauptmenü übersetzt (Einstellungen ausgeschlossen)
+- KSP Deutsch Patch Längerflaggen eingefügt (Deutschland, Österreich, SChweiz)
+- Spielegrafiken übersetzt
+
+
+Version 1.1
+- Resourcen-Bug gefixed (Ressourcen wieder in Englisch)
+- Leiter-Bug gefixed
+- Ordner umsortiert für eine bessere Verwendung des KSP ModAdmin
+
+
+Version 1.0
+- Übersetzung veröffentlich
+- Berichte
+- Beschreibungen aller Stock Parts
+- Ressourcen
+- Abteilungen des Verwaltungsgebäudes (Administration Buildings)
+- Firmenbeschreibungen
+- Strategien
+- Erfahrungszweige der Kerbals (Also Pilot, Ingenieur, Wissenschaftler)
+- Ergebnisse aller Experimente
+- und viele kleinere Dinge
