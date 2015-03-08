@@ -1,8 +1,0 @@
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\bin\Debug\KSP Deutsch Patch.exe.config
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\bin\Debug\KSP Deutsch Patch.exe
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\bin\Debug\KSP Deutsch Patch.pdb
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\obj\Debug\KSP_Deutsch_Patch.Properties.Resources.resources
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\obj\Debug\KSP_Deutsch_Patch.Splash.resources
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\obj\Debug\KSP Deutsch Patch.csproj.GenerateResource.Cache
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\obj\Debug\KSP Deutsch Patch.exe
-d:\benutzer\dorian\documents\visual studio 2013\Projects\KSP Deutsch Patch\KSP Deutsch Patch\obj\Debug\KSP Deutsch Patch.pdb
