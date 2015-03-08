@@ -4,8 +4,8 @@ Version 1.2
 - IVA vom PPD-10 Hitchhiker übersetzt
 - Hinweise des Ladebildschirms übersetzt
 - Hauptmenü übersetzt (Einstellungen ausgeschlossen)
-- KSP Deutsch Patch Längerflaggen eingefügt (Deutschland, Österreich, SChweiz)
-- Spielegrafiken übersetzt
+- KSP Deutsch Patch Länderflaggen eingefügt (Deutschland, Österreich, Schweiz)
+- Spielgrafiken übersetzt
 
 
 Version 1.1
