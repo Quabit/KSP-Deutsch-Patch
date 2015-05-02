@@ -31,4 +31,4 @@
 		All Rights reserved © kerbalspaceprogram.de
 		Das ASCII-Logo wurde mithilfe des ASCII-Art Generators von patorjk.com erstellt.
 		Der Patch nutzt dem ModuleManager in Version 2.6.2, entwickelt von sarbian aus dem englischen KSP-Forum, 
-		sowie das LanguagPatches Framework, etwickelt von Thomas P. Kerman und simon56modder
+		sowie das LanguagePatches Framework, entwickelt von Thomas P. Kerman und simon56modder
