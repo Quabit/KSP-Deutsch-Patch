@@ -1,4 +1,4 @@
-# KSP-Deutsch-Patch
+﻿# KSP-Deutsch-Patch
 German translation for Kerbal Space Program
 
 // Installation
@@ -26,4 +26,4 @@ Dieser Patch ist in Version 2.0 mit KerbalSpaceProgram 1.0 kompatibel, andere Ve
 All Rights reserved © kerbalspaceprogram.de
 Das ASCII-Logo wurde mithilfe des ASCII-Art Generators von patorjk.com erstellt.
 Der Patch nutzt dem ModuleManager in Version 2.6.2 (CC share-alike), entwickelt von sarbian aus dem englischen KSP-Forum, 
-sowie das LanguagPatches Framework, etwickelt von Thomas P. Kerman und simon56modder (LGPL)
+sowie das LanguagePatches Framework, entwickelt von Thomas P. Kerman und simon56modder (LGPL)
