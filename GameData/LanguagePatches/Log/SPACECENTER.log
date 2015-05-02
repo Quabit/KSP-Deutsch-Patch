@@ -1,0 +1,214 @@
+[SpriteText] 0
+[SpriteText] Go to Astronaut Complex
+[SpriteText] Clear
+[SpriteText] Fill
+[SpriteText] Reset
+[SpriteText] Available crew
+[SpriteText] Parts with crew capacity
+[SpriteText] none
+[SpriteText] Stage Only
+[SpriteText] 
+[SpriteText] /
+[SpriteText] 0
+[SpriteText] 0
+[SpriteText] 0
+[SpriteText] Resources
+[SpriteText] Resources
+[SpriteText] 0
+[SpriteText] description
+[SpriteText] Node name
+[SpriteText] Vessel Name
+[SpriteText] Science: 0.0
+[SpriteText] Kerbal Name
+[SpriteText] 000 Data Gathered
+[SpriteText] Name
+[SpriteText] Header
+[SpriteText] Name
+[SpriteText] 0/0
+[SpriteText] 
+[SpriteText] Value
+[SpriteText] 
+[SpriteText] 3
+[SpriteText] Science Report
+[SpriteText] 
+[SpriteText] Vessel Name
+[SpriteText] New message
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Close
+[SpriteText] 000 Science reports found
+[SpriteText] Clear
+[SpriteText] Node description
+[SpriteText] Requires:
+[SpriteText] Available Parts
+[SpriteText] 100%
+[SpriteText] Nothing selected.
+[SpriteText] Node name
+[SpriteText] Purchase 0 Parts [1,000 Funds]
+[SpriteText] Expand All
+[SpriteText] Science
+[SpriteText] Name
+[SpriteText] Data
+[SpriteText] Value
+[SpriteText] Research [0000 Science]
+[SpriteText] Reset Filters
+[SpriteText] Header
+[SpriteText] Label
+[SpriteText] Clear
+[SpriteText] # parts, in # stages.
+* Locked or Invalid Parts!
+[SpriteText] Header header header 1eader header header header header header 3header header header header
+[SpriteText] *Name* Kerman
+[SpriteText] Part Name
+[SpriteText] Vessel Name
+[SpriteText] XP Trait
+[SpriteText]      key
+[SpriteText] Kerbal Name
+[SpriteText] Courage
+[SpriteText] Courage
+[SpriteText] Courage
+[SpriteText] Parts with crew capacity
+[SpriteText] Close
+[SpriteText] Kerbal Name
+[SpriteText] Stupidity
+[SpriteText] XP Trait
+[SpriteText] Nothing selected.
+[SpriteText] Stupidity
+[SpriteText] Kerbal Name
+[SpriteText] Fill
+[SpriteText] Go to Astronaut Complex
+[SpriteText] Kerbal Name
+[SpriteText] Label
+[SpriteText] Archives
+[SpriteText] Reset
+[SpriteText] Close
+[SpriteText] Available crew
+[SpriteText] Deadline
+[SpriteText] Active Strategies
+[SpriteText] Available
+[SpriteText] 1d, 1h, 1m
+[SpriteText] 1d, 1h, 1m
+[SpriteText] Active
+[SpriteText] Completed
+[SpriteText] Failed
+[SpriteText] Cancelled
+[SpriteText] All
+[SpriteText] Expires
+[SpriteText] App name
+[SpriteText] Lost
+[SpriteText] Mission
+Flag
+[SpriteText] Stages
+[SpriteText] Assigned
+[SpriteText] Reset
+[SpriteText] Applicants
+[SpriteText] Fill
+[SpriteText] Clear
+[SpriteText] Delete
+[SpriteText] Close
+[SpriteText] Available
+[SpriteText] Name
+[SpriteText] Cost
+[SpriteText] Vessel Name
+[SpriteText] Launch
+[SpriteText] Close
+[SpriteText] Launch new mission
+[SpriteText] Edit
+[SpriteText] Parts
+[SpriteTextRich] Placeholder text.
+[SpriteTextRich] I know, It's hardly rocket science
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Rebuild Lvl 1
+£ 10,800,000
+[SpriteTextRich] Enter
+
+[SpriteTextRich] Building Name
+[SpriteTextRich] Status: Fully Operational
+[SpriteTextRich] Status: Operational
+[SpriteTextRich] Debris
+[SpriteTextRich] Facility Level 2
+
+
+
+
+[SpriteTextRich] Space Center Facility
+[SpriteTextRich] Vessel Name
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Repair For £000,000,000.00
+
+[SpriteTextRich] + Map Trajectory Display
++ Tracked Object Data
++ Flight Guidance Data
++ Four lines should be plenty I think
+
+[SpriteTextRich] Vehicle Assembly Building description text goes here, and can be about this much in length, possibly more... Yeah, we can fit about five or six lines here easily, although reading this much is probably going to be a bore so better not overdo it.
+[SpriteTextRich] <#feb200>Crew:</>
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Discard
+[SpriteTextRich] Tracking Station
+[SpriteTextRich] The Tracking Station allows you to keep track of ongoing flights and recover or terminate them.
+[SpriteTextRich] Enter
+
+[SpriteTextRich] Repair For £000,000,000.00
+
+[SpriteTextRich] 1200 parts, 500 stages
+[SpriteTextRich] Close
+[SpriteTextRich] Demolish
+
+[SpriteTextRich] Jebediah Kerman
+Bob Kerman
+Bill Kerman
+<i>(N more)</>
+[SpriteTextRich] Upgrade
+<#00d4fe>£100,240,000.00</>
+[SpriteTextRich] £0000
+[SpriteTextRich] 0000£
+[SpriteTextRich] Title
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>
+Welcome to the science archives. Please make a selection.
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Placeholder text.
+[SpriteTextRich] <b><#DB8310>Gene Kerman:</></b>
+Welcome to Mission Control. Please make a selection.
+[SpriteTextRich] Header
+[SpriteTextRich] <b>Empty Seat</b>
+[SpriteTextRich] <b><#DB8310>Cost:</></b>
+\F 90.000
+
+<#DB8310>Estimated result:</>
++15% Reputation rewards
++12% Fundrs rewards
+[SpriteTextRich]      key
+[SpriteTextRich] Mass: 0000.0t
+[SpriteTextRich] Department Rep description text goes here, and it must be long enough to test just how much we can fit in this dialog. About this much should do. actually that wasn't quite enough... One or two more lines should do it. Here/.
+[SpriteTextRich] Size: 888.8m, 888.8m, 888.8m
+[SpriteTextRich] *Name* Kerman
+(*Department*)
+[SpriteTextRich] £99999999
+[SpriteTextRich] <b><#DB8310>Space program appreciation campaign:</></b>
+[SpriteTextRich] Department Rep Name
+[SpriteTextRich] Strategy Text Here.
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] <b>Empty Seat</b>
+[SpriteTextRich] Cancel Strategy
+[SpriteTextRich] Accept Strategy
+[SpriteTextRich] <b><#DB8310>Contract:</></b>
+Mission Headline
+
+<b><#DB8310>Agent:</></b>
+Agent Info
+[SpriteTextRich] Commitment: 00.0%
+[SpriteTextRich] Accept Contract
+[SpriteTextRich] Decline Contract
+[SpriteTextRich] Cancel Contract
+[SpriteTextRich] Back to Contract
+[SpriteTextRich] <b><#DB8310>Active Contracts: </></b> 99	[Max: 00]
+[SpriteTextRich] key
+[SpriteTextRich] key
+[SpriteTextRich] Active Crews: 10	[Max: 12]
+[SpriteTextRich] Hire Next: £ 00,000,000.00
+[SpriteTextRich] Congratulations! Your unified field theory experiment was a great success. On second thought, it may also be the case that you have no vessels available for launch.
+[SpriteTextRich] £99999999

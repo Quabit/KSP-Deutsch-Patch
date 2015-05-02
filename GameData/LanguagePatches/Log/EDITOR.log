@@ -1,0 +1,291 @@
+[SpriteText] Close
+[SpriteText] Lost
+[SpriteText] Assigned
+[SpriteText] Available
+[SpriteText] Applicants
+[SpriteText] Fill
+[SpriteText] Reset
+[SpriteText] Clear
+[SpriteText] Custom10
+[SpriteText] Custom09
+[SpriteText] Custom08
+[SpriteText] Custom07
+[SpriteText] Custom06
+[SpriteText] Custom05
+[SpriteText] Custom04
+[SpriteText] Custom03
+[SpriteText] Custom02
+[SpriteText] Custom01
+[SpriteText] Abort
+[SpriteText] Brakes
+[SpriteText] SAS
+[SpriteText] RCS
+[SpriteText] Light
+[SpriteText] Gear
+[SpriteText] Stage
+[SpriteText] Go to Astronaut Complex
+[SpriteText] Clear
+[SpriteText] Fill
+[SpriteText] Reset
+[SpriteText] Available crew
+[SpriteText] Parts with crew capacity
+[SpriteText] 0
+[SpriteText] none
+[SpriteText] Stage Only
+[SpriteText] 
+[SpriteText] /
+[SpriteText] 0
+[SpriteText] 0
+[SpriteText] 0
+[SpriteText] Resources
+[SpriteText] Resources
+[SpriteText] 0
+[SpriteText] description
+[SpriteText] Node name
+[SpriteText] Vessel Name
+[SpriteText] Science: 0.0
+[SpriteText] Kerbal Name
+[SpriteText] 000 Data Gathered
+[SpriteText] Name
+[SpriteText] Header
+[SpriteText] Name
+[SpriteText] 0/0
+[SpriteText] 
+[SpriteText] Value
+[SpriteText] 
+[SpriteText] 3
+[SpriteText] Science Report
+[SpriteText] 
+[SpriteText] Vessel Name
+[SpriteText] New message
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Close
+[SpriteText] 000 Science reports found
+[SpriteText] Clear
+[SpriteText] Node description
+[SpriteText] Requires:
+[SpriteText] Available Parts
+[SpriteText] 100%
+[SpriteText] Nothing selected.
+[SpriteText] Node name
+[SpriteText] Purchase 0 Parts [1,000 Funds]
+[SpriteText] Expand All
+[SpriteText] Science
+[SpriteText] Name
+[SpriteText] Data
+[SpriteText] Value
+[SpriteText] Research [0000 Science]
+[SpriteText] Reset Filters
+[SpriteText] Header
+[SpriteText] Label
+[SpriteText] Clear
+[SpriteText] # parts, in # stages.
+* Locked or Invalid Parts!
+[SpriteText] Part Name
+[SpriteText] Vessel Name
+[SpriteText] XP Trait
+[SpriteText]      key
+[SpriteText] Kerbal Name
+[SpriteText] Courage
+[SpriteText] Courage
+[SpriteText] Courage
+[SpriteText] Parts with crew capacity
+[SpriteText] Kerbal Name
+[SpriteText] Stupidity
+[SpriteText] XP Trait
+[SpriteText] Stupidity
+[SpriteText] Kerbal Name
+[SpriteText] Fill
+[SpriteText] Go to Astronaut Complex
+[SpriteText] Kerbal Name
+[SpriteText] Label
+[SpriteText] Reset
+[SpriteText] Available crew
+[SpriteText] App name
+[SpriteText] Hello World
+[SpriteText] text
+[SpriteText] 
+[SpriteText] In
+[SpriteText] Hello World
+[SpriteText] Hello World
+[SpriteText] Hello World
+[SpriteText] 123123123123
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 999
+[SpriteText] 
+[SpriteText] 1231111111111
+[SpriteText] /
+[SpriteText] /
+[SpriteText] Reset
+[SpriteText] sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[SpriteText] 123123123123
+[SpriteText] 123123123123123
+[SpriteText] 123123123123
+[SpriteText] 
+[SpriteText] Out
+[SpriteText] Hello World
+[SpriteText] sdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsf
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Stop
+[SpriteText] 123123123123123
+[SpriteText] 
+[SpriteText] Lost
+[SpriteText] Transfer
+[SpriteText] Assigned
+[SpriteText] Reset
+[SpriteText] Applicants
+[SpriteText] Fill
+[SpriteText] Clear
+[SpriteText] Available
+[SpriteText] Close
+[SpriteText] Name
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Action Groups
+[SpriteText] Group Actions
+[SpriteText] 
+[SpriteText] Size
+[SpriteText] 
+[SpriteText] Cost
+[SpriteText] Selection
+[SpriteText] 
+[SpriteText] Mass
+[SpriteText] Hello WorldHello WorldHello World
+[SpriteTextRich] Active Crews: 10	[Max: 12]
+[SpriteTextRich] Hire Next: £ 00,000,000.00
+[SpriteTextRich] Placeholder text.
+[SpriteTextRich] I know, It's hardly rocket science
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Rebuild Lvl 1
+£ 10,800,000
+[SpriteTextRich] Enter
+
+[SpriteTextRich] Building Name
+[SpriteTextRich] Status: Fully Operational
+[SpriteTextRich] Status: Operational
+[SpriteTextRich] Debris
+[SpriteTextRich] Facility Level 2
+
+
+
+
+[SpriteTextRich] Space Center Facility
+[SpriteTextRich] Vessel Name
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Repair For £000,000,000.00
+
+[SpriteTextRich] + Map Trajectory Display
++ Tracked Object Data
++ Flight Guidance Data
++ Four lines should be plenty I think
+
+[SpriteTextRich] Vehicle Assembly Building description text goes here, and can be about this much in length, possibly more... Yeah, we can fit about five or six lines here easily, although reading this much is probably going to be a bore so better not overdo it.
+[SpriteTextRich] <#feb200>Crew:</>
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Discard
+[SpriteTextRich] Tracking Station
+[SpriteTextRich] The Tracking Station allows you to keep track of ongoing flights and recover or terminate them.
+[SpriteTextRich] Enter
+
+[SpriteTextRich] Repair For £000,000,000.00
+
+[SpriteTextRich] 1200 parts, 500 stages
+[SpriteTextRich] Close
+[SpriteTextRich] Demolish
+
+[SpriteTextRich] Jebediah Kerman
+Bob Kerman
+Bill Kerman
+<i>(N more)</>
+[SpriteTextRich] Upgrade
+<#00d4fe>£100,240,000.00</>
+[SpriteTextRich] £0000
+[SpriteTextRich] 0000£
+[SpriteTextRich] Title
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>
+Welcome to the science archives. Please make a selection.
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Header
+[SpriteTextRich] <b>Empty Seat</b>
+[SpriteTextRich]      key
+[SpriteTextRich] Mass: 0000.0t
+[SpriteTextRich] Size: 888.8m, 888.8m, 888.8m
+[SpriteTextRich] £99999999
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] <b>Empty Seat</b>
+[SpriteTextRich] key
+[SpriteTextRich] key
+[SpriteTextRich] Add part to category:
+[SpriteTextRich] Close
+[SpriteTextRich] Delete
+[SpriteTextRich] Accept
+[SpriteTextRich] Close
+[SpriteTextRich] Icon:
+[SpriteTextRich] Category name:
+[SpriteTextRich] Accept
+[SpriteTextRich] Hire Next: £ 00,000,000.00
+[SpriteTextRich] [+] design concern test
+[SpriteTextRich] Show severity:
+[SpriteTextRich] Active Crews: 10	[Max: 12]
+[SpriteText]      key
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText] Header
+[SpriteText] Engineer's Report
+[SpriteTextRich] [+] Consumers not receiving Ore.
+[SpriteTextRich] [+] Consumers not receiving IntakeAir.
+[SpriteTextRich] [+] Consumers not receiving ElectricCharge.
+[SpriteTextRich] [+] Consumers not receiving XenonGas.
+[SpriteTextRich] [+] Consumers not receiving MonoPropellant.
+[SpriteTextRich] [+] Consumers not receiving Oxidizer.
+[SpriteTextRich] [+] Consumers not receiving LiquidFuel.
+[SpriteTextRich] [+] Unused Ore resource.
+[SpriteTextRich] [+] Unused IntakeAir resource.
+[SpriteTextRich] [+] Unused ElectricCharge resource.
+[SpriteTextRich] [+] Unused XenonGas resource.
+[SpriteTextRich] [+] Unused MonoPropellant resource.
+[SpriteTextRich] [+] Unused Oxidizer resource.
+[SpriteTextRich] [+] Unused LiquidFuel resource.
+[SpriteTextRich] [+] ElectricCharge stored but not generated.
+[SpriteTextRich] [+] ElectricCharge generated but storage lacking.
+[SpriteTextRich] [+] ElectricCharge generated but not used.
+[SpriteTextRich] [+] ElectricCharge required but not generated.
+[SpriteTextRich] [+] No Control!
+[SpriteTextRich] [+] Hatch Obstructed!
+[SpriteTextRich] [+] Docking ports used as decouplers.
+[SpriteTextRich] [+] Docking ports attached wrong.
+[SpriteTextRich] [+] Missing ladder.
+[SpriteTextRich] [+] Engines jettisoned before use.
+[SpriteTextRich] [+] Decouplers activated before launch clamps.
+[SpriteTextRich] [+] Empty crew cabins.
+[SpriteTextRich] [+] Decouplers attached wrong.
+[SpriteTextRich] [+] Command modules facing the wrong way.
+[SpriteTextRich] [+] Station hub issues.
+[SpriteTextRich] [+] Parachute missing!
+[SpriteTextRich] [+] Parachutes on engine stage.
+[SpriteTextRich] [+] Parachutes on first stage.
+[SpriteTextRich] [+] Data transmitter required.
+[SpriteTextRich] There is nothing concerning about this vessel.
+[SpriteTextRich] Nothing to report, nothing to see either.
+[SpriteTextRich] Show severity:
+[SpriteTextRich] <#e6752a>Design checklist
+[SpriteTextRich] Size
+Height:
+Width:
+Length:
+[SpriteTextRich] Size
+Height:
+Width:
+Length:
+[SpriteTextRich] 
+[SpriteTextRich] Mass:
+[SpriteTextRich] 
+[SpriteTextRich] Parts:
+[SpriteTextRich] <#e6752a>Craft Stats
+[SpriteTextRich] <#bfc3af>Aerodynamics</>

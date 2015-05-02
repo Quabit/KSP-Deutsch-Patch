@@ -1,0 +1,100 @@
+[SpriteText] Stage Only
+[SpriteText] 
+[SpriteText] /
+[SpriteText] 0
+[SpriteText] 0
+[SpriteText] 0
+[SpriteText] Resources
+[SpriteText] Resources
+[SpriteText] 0
+[SpriteText] description
+[SpriteText] Node name
+[SpriteText] Vessel Name
+[SpriteText] Science: 0.0
+[SpriteText] Kerbal Name
+[SpriteText] 000 Data Gathered
+[SpriteText] Name
+[SpriteText] Header
+[SpriteText] Name
+[SpriteText] 0/0
+[SpriteText] 
+[SpriteText] Value
+[SpriteText] 
+[SpriteText] 3
+[SpriteText] Science Report
+[SpriteText] 
+[SpriteText] Vessel Name
+[SpriteText] New message
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Close
+[SpriteText] 000 Science reports found
+[SpriteText] Clear
+[SpriteText] Node description
+[SpriteText] Requires:
+[SpriteText] Available Parts
+[SpriteText] 100%
+[SpriteText] Nothing selected.
+[SpriteText] Node name
+[SpriteText] Purchase 0 Parts [1,000 Funds]
+[SpriteText] Expand All
+[SpriteText] Science
+[SpriteText] Name
+[SpriteText] Data
+[SpriteText] Value
+[SpriteText] Research [0000 Science]
+[SpriteText] Reset Filters
+[SpriteTextRich] Placeholder text.
+[SpriteTextRich] I know, It's hardly rocket science
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Rebuild Lvl 1
+£ 10,800,000
+[SpriteTextRich] Enter
+
+[SpriteTextRich] Building Name
+[SpriteTextRich] Status: Fully Operational
+[SpriteTextRich] Status: Operational
+[SpriteTextRich] Debris
+[SpriteTextRich] Facility Level 2
+
+
+
+
+[SpriteTextRich] Space Center Facility
+[SpriteTextRich] Vessel Name
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Repair For £000,000,000.00
+
+[SpriteTextRich] + Map Trajectory Display
++ Tracked Object Data
++ Flight Guidance Data
++ Four lines should be plenty I think
+
+[SpriteTextRich] Vehicle Assembly Building description text goes here, and can be about this much in length, possibly more... Yeah, we can fit about five or six lines here easily, although reading this much is probably going to be a bore so better not overdo it.
+[SpriteTextRich] <#feb200>Crew:</>
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Discard
+[SpriteTextRich] Tracking Station
+[SpriteTextRich] The Tracking Station allows you to keep track of ongoing flights and recover or terminate them.
+[SpriteTextRich] Enter
+
+[SpriteTextRich] Repair For £000,000,000.00
+
+[SpriteTextRich] 1200 parts, 500 stages
+[SpriteTextRich] Close
+[SpriteTextRich] Demolish
+
+[SpriteTextRich] Jebediah Kerman
+Bob Kerman
+Bill Kerman
+<i>(N more)</>
+[SpriteTextRich] Upgrade
+<#00d4fe>£100,240,000.00</>
+[SpriteTextRich] £0000
+[SpriteTextRich] 0000£
+[SpriteTextRich] Title
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>
+Welcome to the science archives. Please make a selection.

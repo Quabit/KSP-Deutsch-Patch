@@ -1,0 +1,14 @@
+﻿<de>
+	<Component name="backBtn" size="17">Zurück</Component>
+	<Component name="startBtn" size="17">Spiel starten</Component>
+	<Component name="settingBtn" size="17">Einstellungen</Component>
+	<Component name="spaceportBtn" size="17">Mods &amp; Addons</Component>
+	<Component name="commBtn" size="17">KSP Community [DE]</Component>
+	<Component name="continueBtn" size="17">Spiel fortsetzen</Component>
+	<Component name="creditsBtn" size="17">Credits</Component>
+	<Component name="newGameBtn" size="17">Neues Spiel</Component>
+	<Component name="quitBtn" size="17">Beenden</Component>
+	<Component name="scenariosBtn" size="17">Szenarien</Component>
+	<Component name="trainingBtn" size="17">Tutorials</Component>
+	<Component name="KSPsiteURL">http://kerbal.de</Component>
+</de>

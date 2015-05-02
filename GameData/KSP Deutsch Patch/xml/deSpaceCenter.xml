@@ -1,0 +1,12 @@
+<de size="18">
+	<Building building="VAB">Raketenmontage</Building>
+	<Building building="SPH">Flugzeugmontage</Building>
+	<Building building="AstronautComplex">Astronautenquartiere</Building>
+	<Building building="TrackingStation">Observatorium</Building>
+	<Building building="AdministrationBuilding">Verwaltungsgebäude</Building>
+	<Building building="Runway">Startbahn</Building>
+	<Building building="LaunchPad">Startplattform</Building>
+	<Building building="FlagPole">Fahnenmast</Building>
+	<Building building="MissionControl">Kontrollzentrum</Building>
+	<Building building="RD">Forschungsabteilung</Building>
+</de>

@@ -1,5 +1,11 @@
 Changelogs KSP Deutsch Patch
 
+Version 2.0
+- Update auf das LanguagePatches Framwork
+- Update für KSP 1.0
+- Schriftart im Ladebildschirm und im Hauptmenü ersetzt (Unicode)
+- Hover-Texte am Space Center übersetzt
+
 Version 1.2
 - IVA vom PPD-10 Hitchhiker übersetzt
 - Hinweise des Ladebildschirms übersetzt

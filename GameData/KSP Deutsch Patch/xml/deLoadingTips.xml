@@ -1,9 +1,8 @@
-<de>
+<de size="17">
 	<string>Lokalisiere Jebediah Kerman...</string>
 	<string>Erzeuge Ablation Schutzschicht...</string>
 	<string>Antworte auf die ultimative Frage...</string>
 	<string>Rekrutiere Kerbals...</string>
-	<string>Besuche Kerbal.de...</string>
 	<string>Hinzufuegen mehrerer Booster...</string>
 	<string>Kalkuliere Flugbahnen...</string>
 	<string>Erfinde lustige Ladehinweise...</string>
@@ -16,7 +15,7 @@
 	<string>Erforsche eine sichere Distanz...</string>
 	<string>Behandle Kessler Syndrom...</string>
 	<string>Richte das richtige Ende in Richtung Weltraum aus...</string>
-	<string>Ueberlagere Gitter auf Bezier Kurs...</string>
+	<string>Überlagere Gitter auf Bezier Kurs...</string>
 	<string>Entwirre SpaceTape...</string>
-
+	<string>Besuche Kerbal.de...</string>
 </de>
