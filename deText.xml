@@ -1,4 +1,12 @@
 ﻿<de>
-<!-- <string name="<ENGLISCHER-TEXT>"><![CDATA[<DEUTSCHER-TEXT>]]></string> -->
-<string name="Courage"><![CDATA[Mut]]></string>
+	<!--
+	<text>
+		<en><![CDATA[<ORIGINALTEXT>]]></en>
+		<de><![CDATA[<ÜBERSETZUNG>]]></de>
+	</text>
+	-->
+	<text>
+		<en><![CDATA[<b>Empty Seat</b>]]></en>
+		<de><![CDATA[<b>Leerer Sitz</b>]]></de>
+	</text>
 </de>

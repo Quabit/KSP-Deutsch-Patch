@@ -3,16 +3,6 @@
 [SpriteText] 0
 [SpriteText] 0
 [SpriteText] /
-[SpriteText] IntakeAir
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] /
-[SpriteText] LiquidFuel
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] /
 [SpriteText] MonoPropellant
 [SpriteText] 0
 [SpriteText] 0
@@ -33,18 +23,218 @@
 [SpriteText] 0
 [SpriteText] description
 [SpriteText] Node name
+[SpriteText] Vessel Name
+[SpriteText] Science: 0.0
+[SpriteText] Kerbal Name
+[SpriteText] 000 Data Gathered
+[SpriteText] Name
+[SpriteText] Header
+[SpriteText] Name
+[SpriteText] 0/0
+[SpriteText] 
+[SpriteText] Value
+[SpriteText] 
+[SpriteText] 3
+[SpriteText] Science Report
+[SpriteText] 
+[SpriteText] Vessel Name
+[SpriteText] New message
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Close
+[SpriteText] 000 Science reports found
+[SpriteText] Clear
+[SpriteText] Node description
+[SpriteText] Requires:
+[SpriteText] Available Parts
+[SpriteText] 100%
+[SpriteText] Nothing selected.
 [SpriteText] Node name
+[SpriteText] Purchase 0 Parts [1,000 Funds]
+[SpriteText] Expand All
+[SpriteText] Science
+[SpriteText] Name
+[SpriteText] Data
+[SpriteText] Value
+[SpriteText] Research [0000 Science]
+[SpriteText] Reset Filters
+[SpriteText] Header
+[SpriteText] # parts, in # stages.\r\r\n* Locked or Invalid Parts!
+[SpriteText] Part Name
+[SpriteText] Vessel Name
+[SpriteText]      key
+[SpriteText] XP Trait
+[SpriteText] Kerbal Name
+[SpriteText] App name
+[SpriteText] Hello World
+[SpriteText] text
+[SpriteText] 
+[SpriteText] In
+[SpriteText] Hello World
+[SpriteText] Hello World
+[SpriteText] Hello World
+[SpriteText] 123123123123
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 999
+[SpriteText] 
+[SpriteText] 1231111111111
+[SpriteText] /
+[SpriteText] /
+[SpriteText] Reset
+[SpriteText] sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[SpriteText] 123123123123
+[SpriteText] 123123123123123
+[SpriteText] 123123123123
+[SpriteText] 
+[SpriteText] Out
+[SpriteText] Hello World
+[SpriteText] sdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsf
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Stop
+[SpriteText] 123123123123123
+[SpriteText] 
+[SpriteText] Transfer
+[SpriteText] O
+[SpriteText] key
+[SpriteText] Header
+[SpriteText] value
+[SpriteText] key
+[SpriteText] Name
+[SpriteText] Seat
+[SpriteText] A
+[SpriteText] Size Class:
+[SpriteText] Part count:
+[SpriteText] key
+[SpriteText] Signal Strength
+[SpriteText] [#c8d782]0 t
+[SpriteText] 100%
+[SpriteText] ...
+[SpriteText] Station:
+[SpriteText] Total mass:
+[SpriteText] Name
+[SpriteText] [#c8d782]-
+[SpriteText] [#c8d782]-
+[SpriteText] S
+[SpriteText] [#c8d782].
+[SpriteText] Last Seen:
+[SpriteText] xp
+[SpriteText] 
+[SpriteText] 1231111111111
+[SpriteText] 123123123123
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] 
+[SpriteText] [#2ae678]Ocean
+[SpriteText] panel 3
+[SpriteText] Vessel Classification
+[SpriteText] HEADER
+[SpriteText] The Mun is the largest satellite visible from Kerbin. It has no atmosphere and the surface is marked with several impact craters scattered across it’s barren surface.
+[SpriteText] Info
+[SpriteText] Velocity: [#c8d782]                    450 m/s
+[SpriteText] Achievements
+[SpriteText] PLANET
+[SpriteText] Known Data
+[SpriteText] hmm
+[SpriteText] Resources
+[SpriteText] Style
+[SpriteText] Parameters
+[SpriteText] Crew
+[SpriteText] Resource
+[SpriteText] panel 2
+[SpriteText] Fraction
+[SpriteText] Info
+[SpriteText] [#2ae678]Atmos.
+[SpriteText] Resources
+[SpriteText] Altidude:[#c8d782]                 75.000 m
+[SpriteText] Capabilities
+[SpriteText] Vessel: Landed on Mun
+[SpriteText] Resources
+[SpriteText] Orbital characteristics
+[SpriteText] Cutoff
+[SpriteText] Situation:   [#c8d782]           Sub-orbital
+[SpriteText] 0%
+[SpriteText] UNOWNED OBJECT
+[SpriteText] [#2ae678]Surface
+[SpriteText] Sphere of influence:[#c8d782]    Kerbin
+[SpriteText] Flight Time:   [#c8d782]            1h 20m
+[SpriteText] Color
+[SpriteText] panel 4
+[SpriteText] Info
+[SpriteTextRich] Placeholder text.
+[SpriteTextRich] I know, It's hardly rocket science
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Rebuild Lvl 1\n£ 10,800,000
+[SpriteTextRich] Enter\n
+[SpriteTextRich] Building Name
+[SpriteTextRich] Status: Fully Operational
+[SpriteTextRich] Status: Operational
+[SpriteTextRich] Debris
+[SpriteTextRich] Facility Level 2\n\n\n\n
+[SpriteTextRich] Space Center Facility
+[SpriteTextRich] Vessel Name
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Repair For £000,000,000.00\n
+[SpriteTextRich] + Map Trajectory Display\n+ Tracked Object Data\n+ Flight Guidance Data\n+ Four lines should be plenty I think\n
+[SpriteTextRich] Vehicle Assembly Building description text goes here, and can be about this much in length, possibly more... Yeah, we can fit about five or six lines here easily, although reading this much is probably going to be a bore so better not overdo it.
+[SpriteTextRich] <#feb200>Crew:</>
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Discard
+[SpriteTextRich] Tracking Station
+[SpriteTextRich] The Tracking Station allows you to keep track of ongoing flights and recover or terminate them.
+[SpriteTextRich] Enter\n
+[SpriteTextRich] Repair For £000,000,000.00\n
+[SpriteTextRich] 1200 parts, 500 stages
+[SpriteTextRich] Close
+[SpriteTextRich] Demolish\n
+[SpriteTextRich] Jebediah Kerman\nBob Kerman\nBill Kerman\n<i>(N more)</>
+[SpriteTextRich] Upgrade\n<#00d4fe>£100,240,000.00</>
+[SpriteTextRich] £0000
+[SpriteTextRich] 0000£
+[SpriteTextRich] Title
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>\nWelcome to the science archives. Please make a selection.
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Header
+[SpriteTextRich] <b>Leerer Sitz</b>
+[SpriteTextRich]      key
+[SpriteTextRich] Mass: 0000.0t
+[SpriteTextRich] Size: 888.8m, 888.8m, 888.8m
+[SpriteTextRich] £99999999
+[SpriteTextRich] <b>Leerer Sitz</b>
+[SpriteTextRich] key
+[SpriteTextRich] key
+[SpriteTextRich] Add part to category:
+[SpriteTextRich] Close
+[SpriteTextRich] Delete
+[SpriteTextRich] Accept
+[SpriteTextRich] Close
+[SpriteTextRich] Icon:
+[SpriteTextRich] Category name:
+[SpriteTextRich] Accept
+[SpriteTextRich] [+] design concern test
+[SpriteTextRich] Show severity:
+[SpriteTextRich] No resources available.
+[TextMesh] Loading...
+[TextMesh] 
 [SpriteText] Stage Only
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] /
-[SpriteText] IntakeAir
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] 0
-[SpriteText] /
-[SpriteText] LiquidFuel
 [SpriteText] 0
 [SpriteText] 0
 [SpriteText] 0
@@ -55,22 +245,6 @@
 [SpriteText] 0
 [SpriteText] /
 [SpriteText] ElectricCharge
-[SpriteText] >>
-[SpriteText] <<
-[SpriteText] 
-[SpriteText] >>
-[SpriteText] <<
-[SpriteText] 
-[SpriteText] 
-[SpriteText] >>
-[SpriteText] >
-[SpriteText] <
-[SpriteText] <<
-[SpriteText] 
-[SpriteText] 
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
 [SpriteText] 
 [SpriteText] Longitude
 [SpriteText] 
@@ -89,99 +263,43 @@
 [SpriteText] [#c8d782]-
 [SpriteText] [#e6752a]Vessel classification
 [SpriteText] Pilot
-[SpriteText] Valentina Kerman
-[SpriteText] CenterSeat
-[SpriteText] [#e6752a]Mk1 Cockpit
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteTex
+[SpriteText] Jebediah Kerman
+[SpriteText] pilotSeat
+[SpriteText] [#e6752a]Mk1 Command Pod
+[SpriteTextRich] <#acfcff>[+] Note:
+[SpriteTextRich] Ò <#ffffff>Achieve goal
+[SpriteTextRich] <#e6752a>Orbit Kerbin!
+[SpriteTextRich] <#acfcff>[+] Note:
+[SpriteTextRich] Ò <#ffffff>Achieve goal
+[SpriteTextRich] <#e6752a>Escape the atmosphere!
+[SpriteTextRich] Ò <#ffffff>Achieve speeds exceeding 450m/s
+[SpriteTextRich] <#e6752a>Set speed record of 450m/s.
+[SpriteTextRich] Ò <#ffffff>Achieve an altitude of at least 7,500m
+[SpriteTextRich] <#e6752a>Set altitude record of 7,500m.
+[TextMesh] 
+[SpriteText] MonoPropellant
+[SpriteText] /
+[SpriteText] 10.00
+[SpriteText] 10.00
+[SpriteText] ElectricCharge
+[SpriteText] /
+[SpriteText] 50.00
+[SpriteText] 50.00
+[SpriteText] Crew Report
+[SpriteText] Toggle Torque
+[SpriteText] Rename Vessel
+[SpriteText] Control From Here
+[SpriteText] Reaction Wheels: Idle
+[SpriteText] State: Operational
+[SpriteText] Mk1 Command Pod
+[SpriteText]      key
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText]      key
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText] Contracts

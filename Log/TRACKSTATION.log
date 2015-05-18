@@ -18,9 +18,9 @@
 [SpriteText] [#b8f4d1]3.532E+12 m³/s²
 [SpriteText] GM
 [SpriteText] [#b8f4d1]5.292E+22 kg
-[SpriteText] Masse
+[SpriteText] Mass
 [SpriteText] [#b8f4d1]4.524E+12 m²
-[SpriteText] Fläche
+[SpriteText] Area
 [SpriteText] [#b8f4d1]600 km
 [SpriteText] Eq. Radius
 [SpriteText] [#2ae678]Physical Characteristics:
@@ -37,9 +37,184 @@
 [SpriteText] 0
 [SpriteText] description
 [SpriteText] Node name
+[SpriteText] Vessel Name
+[SpriteText] Science: 0.0
+[SpriteText] Kerbal Name
+[SpriteText] 000 Data Gathered
+[SpriteText] Name
+[SpriteText] Header
+[SpriteText] Name
+[SpriteText] 0/0
+[SpriteText] 
+[SpriteText] Value
+[SpriteText] 
+[SpriteText] 3
+[SpriteText] Science Report
+[SpriteText] 
+[SpriteText] Vessel Name
+[SpriteText] New message
+[SpriteText] 
+[SpriteText] 
+[SpriteText] Close
+[SpriteText] 000 Science reports found
+[SpriteText] Clear
+[SpriteText] Node description
+[SpriteText] Requires:
+[SpriteText] Available Parts
+[SpriteText] 100%
+[SpriteText] Nothing selected.
 [SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
+[SpriteText] Purchase 0 Parts [1,000 Funds]
+[SpriteText] Expand All
+[SpriteText] Science
+[SpriteText] Name
+[SpriteText] Data
+[SpriteText] Value
+[SpriteText] Research [0000 Science]
+[SpriteText] Reset Filters
+[SpriteText] Header
+[SpriteText] # parts, in # stages.\r\r\n* Locked or Invalid Parts!
+[SpriteText] Part Name
+[SpriteText] Vessel Name
+[SpriteText]      key
+[SpriteText] XP Trait
+[SpriteText] Kerbal Name
+[SpriteText] App name
+[SpriteText] Hello World
+[SpriteText] text
+[SpriteText] Hello World
+[SpriteText] Hello World
+[SpriteText] 999
+[SpriteText] Reset
+[SpriteText] sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+[SpriteText] Hello World
+[SpriteText] sdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsfsdfsdfsdfsdfsfdfsf
+[SpriteText] O
+[SpriteText] key
+[SpriteText] Header
+[SpriteText] value
+[SpriteText] key
+[SpriteText] Name
+[SpriteText] Seat
+[SpriteText] A
+[SpriteText] Size Class:
+[SpriteText] Part count:
+[SpriteText] key
+[SpriteText] Signal Strength
+[SpriteText] [#c8d782]0 t
+[SpriteText] 100%
+[SpriteText] ...
+[SpriteText] Station:
+[SpriteText] Total mass:
+[SpriteText] Name
+[SpriteText] [#c8d782]-
+[SpriteText] [#c8d782]-
+[SpriteText] S
+[SpriteText] [#c8d782].
+[SpriteText] Last Seen:
+[SpriteText] xp
+[SpriteText] Color
+[SpriteText] Cutoff
+[SpriteText] Parameters
+[SpriteText] Style
+[SpriteText] Resources
+[SpriteText] panel 3
+[SpriteText] [#2ae678]Surface
+[SpriteText] [#2ae678]Atmos.
+[SpriteText] Vessel: Landed on Mun
+[SpriteText] HEADER
+[SpriteText] UNOWNED OBJECT
+[SpriteText] hmm
+[SpriteText] Altidude:[#c8d782]                 75.000 m
+[SpriteText] 0%
+[SpriteText] Sphere of influence:[#c8d782]    Kerbin
+[SpriteText] Capabilities
+[SpriteText] KERBIN
+[SpriteText] panel 2
+[SpriteText] Crew
+[SpriteText] Orbital characteristics
+[SpriteText] Achievements
+[SpriteText] Vessel Classification
+[SpriteText] Resource
+[SpriteText] Velocity: [#c8d782]                    450 m/s
+[SpriteText] panel 4
+[SpriteText] Info
+[SpriteText] Situation:   [#c8d782]           Sub-orbital
+[SpriteText] Flight Time:   [#c8d782]            1h 20m
+[SpriteText] Eine einzigartige Welt mit flachen Ebenen, hoch aufragenden Berge und weiten, blauen Ozeane. Heimat der Kerbals, scheinbar mit den richtigen Bedingungen fr die grnen Kreaturen. Das Erreichen einer Umlaufbahn um Kerbin ist eines der ersten Dinge, wonach angehende Raumfahrtprogramme streben. Es wird gesagt, dass man im Orbit bereits auf dem halben Weg Richtung berall sei.
+[SpriteText] [#2ae678]Ocean
+[SpriteText] Fraction
+[SpriteText] Info
+[SpriteText] Known Data
+[SpriteText] Info
+[SpriteTextRich] Placeholder text.
+[SpriteTextRich] I know, It's hardly rocket science
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Rebuild Lvl 1\n£ 10,800,000
+[SpriteTextRich] Enter\n
+[SpriteTextRich] Building Name
+[SpriteTextRich] Status: Fully Operational
+[SpriteTextRich] Status: Operational
+[SpriteTextRich] Debris
+[SpriteTextRich] Facility Level 2\n\n\n\n
+[SpriteTextRich] Space Center Facility
+[SpriteTextRich] Vessel Name
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Repair For £000,000,000.00\n
+[SpriteTextRich] + Map Trajectory Display\n+ Tracked Object Data\n+ Flight Guidance Data\n+ Four lines should be plenty I think\n
+[SpriteTextRich] Vehicle Assembly Building description text goes here, and can be about this much in length, possibly more... Yeah, we can fit about five or six lines here easily, although reading this much is probably going to be a bore so better not overdo it.
+[SpriteTextRich] <#feb200>Crew:</>
+[SpriteTextRich] Landed at Somewhere long enough to line break
+[SpriteTextRich] Discard
+[SpriteTextRich] Tracking Station
+[SpriteTextRich] The Tracking Station allows you to keep track of ongoing flights and recover or terminate them.
+[SpriteTextRich] Enter\n
+[SpriteTextRich] Repair For £000,000,000.00\n
+[SpriteTextRich] 1200 parts, 500 stages
+[SpriteTextRich] Close
+[SpriteTextRich] Demolish\n
+[SpriteTextRich] Jebediah Kerman\nBob Kerman\nBill Kerman\n<i>(N more)</>
+[SpriteTextRich] Upgrade\n<#00d4fe>£100,240,000.00</>
+[SpriteTextRich] £0000
+[SpriteTextRich] 0000£
+[SpriteTextRich] Title
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] 0000£
+[SpriteTextRich] <b><#DB8310>Wernher Von Kerman:</></b>\nWelcome to the science archives. Please make a selection.
+[SpriteTextRich] XP Trait Description
+[SpriteTextRich] Header
+[SpriteTextRich] <b>Leerer Sitz</b>
+[SpriteTextRich]      key
+[SpriteTextRich] Mass: 0000.0t
+[SpriteTextRich] Size: 888.8m, 888.8m, 888.8m
+[SpriteTextRich] £99999999
+[SpriteTextRich] <b>Leerer Sitz</b>
+[SpriteTextRich] key
+[SpriteTextRich] key
+[SpriteTextRich] Add part to category:
+[SpriteTextRich] Close
+[SpriteTextRich] Delete
+[SpriteTextRich] Accept
+[SpriteTextRich] Close
+[SpriteTextRich] Icon:
+[SpriteTextRich] Category name:
+[SpriteTextRich] Accept
+[SpriteTextRich] [+] design concern test
+[SpriteTextRich] Show severity:
+[SpriteTextRich] No resource data available  You will need to perform an orbital survey first.
+[TextMesh] Loading...
+[SpriteText]      key
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText]      key
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText]      key
+[SpriteText] Header
+[SpriteText] Contracts
 [SpriteText] [#b8f4d1]288.15 °K
 [SpriteText] ASL Temperature
 [SpriteText] [#b8f4d1]1 atm
@@ -66,94 +241,13 @@
 [SpriteText] [#b8f4d1]600 km
 [SpriteText] Eq. Radius
 [SpriteText] [#2ae678]Physical Characteristics:
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] Node name
-[SpriteText] No
+[SpriteTextRich] <#acfcff>[+] Note:
+[SpriteTextRich] Ò <#ffffff>Achieve goal
+[SpriteTextRich] <#e6752a>Orbit Kerbin!
+[SpriteTextRich] <#acfcff>[+] Note:
+[SpriteTextRich] Ò <#ffffff>Achieve goal
+[SpriteTextRich] <#e6752a>Escape the atmosphere!
+[SpriteTextRich] Ò <#ffffff>Achieve speeds exceeding 450m/s
+[SpriteTextRich] <#e6752a>Set speed record of 450m/s.
+[SpriteTextRich] Ò <#ffffff>Achieve an altitude of at least 7,500m
+[SpriteTextRich] <#e6752a>Set altitude record of 7,500m.
